@@ -1,1 +1,1 @@
-Exercise code for Fluent Python
+Exercise codes for Fluent Python
